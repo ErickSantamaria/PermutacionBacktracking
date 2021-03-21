@@ -6,6 +6,9 @@
  reorganización de los elementos de una lista ordenada S en una correspondencia uno a
  uno con S en sí. Una cadena de longitud n tiene n! Permutación.
  
+ Las permutaciones en la vida cotidiana permite seleccionar y tener a la mano muchas 
+ opciones, como tomar las direcciones al manejar,tomar diferentes decisiones y situaciones por el estilo.
+ 
  Se presenta una solucion utilizando de base el backtracking:
  
  ![Arbol](https://user-images.githubusercontent.com/79272087/111920291-23f7d180-8a5c-11eb-80cd-5f3f06ad1680.JPG)
