@@ -7,7 +7,7 @@
  uno con S en sí. Una cadena de longitud n tiene n! Permutación.
  
  Las permutaciones en la vida cotidiana permite seleccionar y tener a la mano muchas 
- opciones, como tomar las direcciones al manejar,tomar diferentes decisiones y situaciones por el estilo.
+ opciones, como tomar las direcciones al manejar, tomar diferentes decisiones y situaciones por el estilo.
  
  Se presenta una solucion utilizando de base el backtracking:
  
